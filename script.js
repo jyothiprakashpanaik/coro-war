@@ -9,7 +9,7 @@ canvas.height = window.innerHeight;
 canvas.width = window.innerWidth;
 
 let score=0;
-let fullPower = 20;
+let fullPower = 100;
 let eHeight = 40;
 let eWidth = 40;
 let ePosX = canvas.width/2-20;
